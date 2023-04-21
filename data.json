@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "JavaScript - das umfassende Handbuch",
+      "isbn": "978-3836286299"
+    },
+    {
+      "id": "2",
+      "title": "Clean Code",
+      "isbn": "978-0132350884"
+    },
+    {
+      "id": "3",
+      "title": "Design Patterns",
+      "isbn": "978-0201633610"
+    }
+  ]
+}
